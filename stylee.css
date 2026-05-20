@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+
+.caixa {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#caixa1{
+    background-color: brown;
+    padding:30px;
+    margin: 30px;
+    border-radius: 20px;
+    width: 300px;
+    height:300px;
+}
+
+#caixa2{
+    background-color: rgb(0, 40, 121);
+    padding:30px;
+    margin: 30px;
+    border-radius: 20px;
+     width: 300px;
+    height:300px;
+}
